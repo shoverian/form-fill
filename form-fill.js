@@ -49,7 +49,7 @@ var formContent = [
         //VEHICLE
         vehicleVin = {
             selector: document.querySelector("#vin"),
-            val: 12345678910101213,
+            val: "1HGCE1899RA009926",
         },
         vehicleYear = {
             selector: document.querySelector("#vYear"),
